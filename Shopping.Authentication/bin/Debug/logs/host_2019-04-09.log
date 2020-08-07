@@ -1,0 +1,729 @@
+2019-04-09 10:28:33.0982 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 10:28:33.1473 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 10:28:33.1943 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 10:28:33.1943 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 10:28:41.0828 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 10:40:35.6177 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 10:40:35.6427 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 10:40:35.6847 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 10:40:35.6847 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 10:40:48.9980 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 10:42:43.6925 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 10:42:43.7485 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 10:42:43.8296 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 10:42:43.8456 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 10:43:13.9217 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 10:43:13.9687 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 10:43:14.0488 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 10:43:14.0488 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 10:43:36.3695 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 10:44:02.0425 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 10:44:02.1285 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 10:44:02.1736 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 10:44:02.1736 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 10:44:18.2218 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 10:45:17.8427 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 10:45:17.8777 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 10:45:17.9537 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 10:45:17.9537 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 10:45:43.0153 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 10:47:21.7712 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 10:47:21.8032 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 10:47:21.8402 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 10:47:21.8402 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 10:47:32.3025 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 10:49:39.7570 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 10:49:39.8671 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 10:49:39.9491 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 10:49:39.9691 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 10:49:44.9196 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 10:51:02.0257 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 10:51:02.0558 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 10:51:02.1038 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 10:51:02.1038 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 10:51:08.5683 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 10:51:52.0328 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 10:51:52.0629 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 10:51:52.1019 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 10:51:52.1019 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 10:52:11.7307 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 10:54:46.6804 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 10:54:46.7144 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 10:54:46.7765 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 10:54:46.7765 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 10:54:59.9847 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 11:01:45.5229 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:01:45.5609 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:01:45.6209 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:01:45.6209 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:03:16.7078 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:03:16.7429 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:03:16.8049 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:03:16.8129 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:03:28.6732 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 11:11:46.9863 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:11:47.0323 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:11:47.0763 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:11:47.0763 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:12:43.2327 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:12:43.2608 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:12:43.3008 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:12:43.3008 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:12:49.6362 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 11:14:44.2934 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:14:44.3204 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:14:44.3694 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:14:44.3694 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:14:50.2285 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 11:32:05.4211 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:32:05.4576 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:32:05.5051 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:32:05.5051 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:32:14.8507 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 11:32:35.5712 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:32:35.6698 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:32:35.7298 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:32:35.7298 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:32:42.8603 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 11:33:46.1223 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:33:46.1573 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:33:46.2019 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:33:46.2019 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:33:51.9054 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 11:36:48.1585 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:36:48.1905 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:36:48.2410 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:36:48.2410 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:36:54.2828 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 11:37:09.4629 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:37:09.4894 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:37:09.5375 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:37:09.5405 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:37:21.3408 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 11:40:14.5399 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:40:14.5729 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:40:14.6240 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:40:14.6240 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:40:23.4492 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 11:41:06.1894 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:41:06.2344 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:41:06.2965 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:41:06.2965 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:41:13.2633 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 11:44:58.3230 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:44:58.3561 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:44:58.4176 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:44:58.4176 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:45:04.3192 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 11:49:20.7011 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:49:20.7401 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:49:20.7852 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:49:20.7852 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:49:43.5020 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:49:43.5390 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:49:43.5905 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:49:43.5955 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:49:49.5442 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 11:50:35.4482 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:50:35.4832 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:50:35.5372 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:50:35.5372 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:50:41.3433 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 11:51:27.5722 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:51:27.6092 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:51:27.6572 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:51:27.6572 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:51:36.2277 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 11:52:49.6658 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:52:49.7073 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:52:49.7553 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:52:49.7553 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:52:55.5108 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 11:54:05.8452 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:54:05.8722 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:54:05.9093 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:54:05.9093 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 11:56:11.8231 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 11:56:11.8446 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 11:56:11.8997 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 11:56:11.8997 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:03:50.7558 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 12:03:50.7869 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 12:03:50.8414 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 12:03:50.8414 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:04:07.1279 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 12:07:55.9731 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 12:07:55.9992 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 12:07:56.0397 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 12:07:56.0397 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:09:01.8086 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 12:10:38.2155 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 12:10:38.2536 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 12:10:38.3066 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 12:10:38.3121 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:10:50.4719 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 12:11:29.9322 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 12:11:29.9702 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 12:11:30.0228 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 12:11:30.0228 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:11:48.0346 Shopping.Authentication.Program System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Castle.MicroKernel.ComponentNotFoundException: No component for supporting the service Shopping.Authentication.Interfaces.IAppRepository was found
+   at Castle.MicroKernel.DefaultKernel.Castle.MicroKernel.IKernelInternal.Resolve(Type service, IDictionary arguments, IReleasePolicy policy, Boolean ignoreParentContext)
+   at Castle.MicroKernel.DefaultKernel.Resolve(Type service, IDictionary arguments)
+   at Castle.Windsor.WindsorContainer.Resolve[T]()
+   at Shopping.Authentication.Providers.AuthorizationServerProvider..ctor() in C:\OnlineProjects\Shopping\Shopping.Auth\Shopping.Authentication\Providers\AuthorizationServerProvider.cs:line 26
+   at Shopping.Authentication.Startup.ConfigureOAuth(IAppBuilder app) in C:\OnlineProjects\Shopping\Shopping.Auth\Shopping.Authentication\Startup.cs:line 28
+   at Shopping.Authentication.Startup.Configuration(IAppBuilder app) in C:\OnlineProjects\Shopping\Shopping.Auth\Shopping.Authentication\Startup.cs:line 22
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Owin.Loader.DefaultLoader.<>c__DisplayClass12.<MakeDelegate>b__b(IAppBuilder builder)
+   at Owin.Loader.DefaultLoader.<>c__DisplayClass1.<LoadImplementation>b__0(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.ResolveApp(StartContext context)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.DirectHostingStarter.Start(StartOptions options)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at Microsoft.Owin.Hosting.WebApp.StartImplementation(IServiceProvider services, StartOptions options)
+   at Microsoft.Owin.Hosting.WebApp.Start(StartOptions options)
+   at Microsoft.Owin.Hosting.WebApp.Start[TStartup](StartOptions options)
+   at Microsoft.Owin.Hosting.WebApp.Start[TStartup](String url)
+   at Shopping.Authentication.ApiStart.Start() in C:\OnlineProjects\Shopping\Shopping.Auth\Shopping.Authentication\App_Start\ApiStart.cs:line 12
+   at Shopping.Authentication.Program.<>c.<Main>b__0_5(ApiStart tc) in C:\OnlineProjects\Shopping\Shopping.Auth\Shopping.Authentication\Program.cs:line 20
+   at Topshelf.ServiceConfiguratorExtensions.<>c__DisplayClass2_0`1.<WhenStarted>b__0(T service, HostControl control)
+   at Topshelf.Builders.DelegateServiceBuilder`1.DelegateServiceHandle.Start(HostControl hostControl)
+   at Topshelf.Hosts.ConsoleRunHost.Run()System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Castle.MicroKernel.ComponentNotFoundException: No component for supporting the service Shopping.Authentication.Interfaces.IAppRepository was found
+   at Castle.MicroKernel.DefaultKernel.Castle.MicroKernel.IKernelInternal.Resolve(Type service, IDictionary arguments, IReleasePolicy policy, Boolean ignoreParentContext)
+   at Castle.MicroKernel.DefaultKernel.Resolve(Type service, IDictionary arguments)
+   at Castle.Windsor.WindsorContainer.Resolve[T]()
+   at Shopping.Authentication.Providers.AuthorizationServerProvider..ctor() in C:\OnlineProjects\Shopping\Shopping.Auth\Shopping.Authentication\Providers\AuthorizationServerProvider.cs:line 26
+   at Shopping.Authentication.Startup.ConfigureOAuth(IAppBuilder app) in C:\OnlineProjects\Shopping\Shopping.Auth\Shopping.Authentication\Startup.cs:line 28
+   at Shopping.Authentication.Startup.Configuration(IAppBuilder app) in C:\OnlineProjects\Shopping\Shopping.Auth\Shopping.Authentication\Startup.cs:line 22
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Owin.Loader.DefaultLoader.<>c__DisplayClass12.<MakeDelegate>b__b(IAppBuilder builder)
+   at Owin.Loader.DefaultLoader.<>c__DisplayClass1.<LoadImplementation>b__0(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.ResolveApp(StartContext context)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.DirectHostingStarter.Start(StartOptions options)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at Microsoft.Owin.Hosting.WebApp.StartImplementation(IServiceProvider services, StartOptions options)
+   at Microsoft.Owin.Hosting.WebApp.Start(StartOptions options)
+   at Microsoft.Owin.Hosting.WebApp.Start[TStartup](StartOptions options)
+   at Microsoft.Owin.Hosting.WebApp.Start[TStartup](String url)
+   at Shopping.Authentication.ApiStart.Start() in C:\OnlineProjects\Shopping\Shopping.Auth\Shopping.Authentication\App_Start\ApiStart.cs:line 12
+   at Shopping.Authentication.Program.<>c.<Main>b__0_5(ApiStart tc) in C:\OnlineProjects\Shopping\Shopping.Auth\Shopping.Authentication\Program.cs:line 20
+   at Topshelf.ServiceConfiguratorExtensions.<>c__DisplayClass2_0`1.<WhenStarted>b__0(T service, HostControl control)
+   at Topshelf.Builders.DelegateServiceBuilder`1.DelegateServiceHandle.Start(HostControl hostControl)
+   at Topshelf.Hosts.ConsoleRunHost.Run()
+2019-04-09 12:11:48.0666 Topshelf.Hosts.ConsoleRunHost An exception occurredSystem.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Castle.MicroKernel.ComponentNotFoundException: No component for supporting the service Shopping.Authentication.Interfaces.IAppRepository was found
+   at Castle.MicroKernel.DefaultKernel.Castle.MicroKernel.IKernelInternal.Resolve(Type service, IDictionary arguments, IReleasePolicy policy, Boolean ignoreParentContext)
+   at Castle.MicroKernel.DefaultKernel.Resolve(Type service, IDictionary arguments)
+   at Castle.Windsor.WindsorContainer.Resolve[T]()
+   at Shopping.Authentication.Providers.AuthorizationServerProvider..ctor() in C:\OnlineProjects\Shopping\Shopping.Auth\Shopping.Authentication\Providers\AuthorizationServerProvider.cs:line 26
+   at Shopping.Authentication.Startup.ConfigureOAuth(IAppBuilder app) in C:\OnlineProjects\Shopping\Shopping.Auth\Shopping.Authentication\Startup.cs:line 28
+   at Shopping.Authentication.Startup.Configuration(IAppBuilder app) in C:\OnlineProjects\Shopping\Shopping.Auth\Shopping.Authentication\Startup.cs:line 22
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Owin.Loader.DefaultLoader.<>c__DisplayClass12.<MakeDelegate>b__b(IAppBuilder builder)
+   at Owin.Loader.DefaultLoader.<>c__DisplayClass1.<LoadImplementation>b__0(IAppBuilder builder)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.ResolveApp(StartContext context)
+   at Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   at Microsoft.Owin.Hosting.Starter.DirectHostingStarter.Start(StartOptions options)
+   at Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   at Microsoft.Owin.Hosting.WebApp.StartImplementation(IServiceProvider services, StartOptions options)
+   at Microsoft.Owin.Hosting.WebApp.Start(StartOptions options)
+   at Microsoft.Owin.Hosting.WebApp.Start[TStartup](StartOptions options)
+   at Microsoft.Owin.Hosting.WebApp.Start[TStartup](String url)
+   at Shopping.Authentication.ApiStart.Start() in C:\OnlineProjects\Shopping\Shopping.Auth\Shopping.Authentication\App_Start\ApiStart.cs:line 12
+   at Shopping.Authentication.Program.<>c.<Main>b__0_5(ApiStart tc) in C:\OnlineProjects\Shopping\Shopping.Auth\Shopping.Authentication\Program.cs:line 20
+   at Topshelf.ServiceConfiguratorExtensions.<>c__DisplayClass2_0`1.<WhenStarted>b__0(T service, HostControl control)
+   at Topshelf.Builders.DelegateServiceBuilder`1.DelegateServiceHandle.Start(HostControl hostControl)
+   at Topshelf.Hosts.ConsoleRunHost.Run()
+2019-04-09 12:12:44.9892 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 12:12:45.0312 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 12:12:45.1013 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 12:12:45.1013 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:13:54.4052 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 12:13:54.4427 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 12:13:54.4902 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 12:13:54.4902 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:14:00.5700 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 12:17:45.0320 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 12:17:45.0660 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 12:17:45.1506 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 12:17:45.1506 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:18:18.1039 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 12:18:18.1359 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 12:18:18.1850 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 12:18:18.1850 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:18:53.9291 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 12:18:53.9571 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 12:18:54.0947 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 12:18:54.0947 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:19:09.1917 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 12:19:09.2362 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 12:19:09.3028 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 12:19:09.3078 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:19:17.1202 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 12:21:23.5736 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 12:21:23.6166 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 12:21:23.6662 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 12:21:23.6662 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:21:34.5213 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 12:21:34.5518 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 12:21:34.6028 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 12:21:34.6028 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:21:40.9473 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 12:27:27.3347 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 12:27:27.3697 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 12:27:27.4468 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 12:27:27.4468 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:27:34.1064 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 12:29:54.2136 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 12:29:54.2477 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 12:29:54.2937 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 12:29:54.2937 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:30:00.5771 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 12:31:48.3066 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 12:31:48.3366 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 12:31:48.3857 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 12:31:48.3857 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:39:18.7275 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 12:39:18.7635 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 12:39:18.8475 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 12:39:18.8475 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:39:24.5165 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 12:40:02.3861 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 12:40:02.4161 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 12:40:02.4931 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 12:40:02.4931 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:40:08.4193 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 12:40:38.7576 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 12:40:38.7936 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 12:40:38.8486 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 12:40:38.8486 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 12:40:45.0670 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 13:30:16.6618 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 13:30:16.6988 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 13:30:16.8179 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 13:30:16.8179 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 13:30:22.8080 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 13:31:07.4023 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 13:31:07.4503 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 13:31:07.5064 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 13:31:07.5064 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 13:31:13.5235 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 13:32:14.6129 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 13:32:14.6489 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 13:32:14.7139 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 13:32:14.7139 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 13:32:20.6318 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 14:10:21.4186 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 14:10:21.4737 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 14:10:21.5437 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 14:10:21.5437 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 14:10:37.7180 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 14:11:08.5216 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 14:11:08.5656 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 14:11:08.6126 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 14:11:08.6176 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 14:11:15.2923 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 14:12:41.8278 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 14:12:41.8598 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 14:12:41.9019 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 14:12:41.9019 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 14:12:48.8427 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 14:37:54.5213 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 14:37:54.5554 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 14:37:54.6134 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 14:37:54.6134 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 14:38:09.1616 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 14:45:43.9067 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 14:45:43.9307 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 14:45:43.9797 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 14:45:43.9797 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 14:47:26.0961 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 14:47:26.1452 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 14:47:26.2032 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 14:47:26.2032 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 14:47:32.9969 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 15:00:14.2000 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 15:00:14.2330 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 15:00:14.2801 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 15:00:14.2841 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 15:00:20.4164 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 15:01:13.4634 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 15:01:13.5185 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 15:01:13.5665 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 15:01:13.5665 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 15:01:20.2532 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 15:02:35.1916 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 15:02:35.2666 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 15:02:35.3157 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 15:02:35.3157 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 15:02:41.6391 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 15:03:20.9976 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 15:03:21.0366 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 15:03:21.0776 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 15:03:21.0776 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 15:03:55.2435 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 15:06:03.5552 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 15:06:03.5993 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 15:06:03.6633 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 15:06:03.6633 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 15:06:12.6926 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 15:07:25.4525 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 15:07:25.4905 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 15:07:25.5626 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 15:07:25.5626 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 15:07:33.0658 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 15:08:01.9620 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 15:08:01.9910 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 15:08:02.0511 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 15:08:02.0511 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 15:08:09.1961 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 15:08:24.0024 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 15:08:24.0524 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 15:08:24.1025 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 15:08:24.1085 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 15:08:31.7898 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 15:08:46.4551 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 15:08:46.4861 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 15:08:46.5392 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 15:08:46.5432 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 15:08:53.0067 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 15:09:11.4596 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 15:09:11.4976 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 15:09:11.5536 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 15:09:11.5566 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 15:09:21.0083 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 15:09:43.8672 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 15:09:43.9233 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 15:09:44.0183 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 15:09:44.0183 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 15:09:50.9752 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 15:28:39.3542 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 15:28:39.3992 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 15:28:39.4523 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 15:28:39.4523 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 15:28:47.2758 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 15:35:16.6670 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 15:35:16.7000 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 15:35:16.7871 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 15:35:16.7871 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 15:35:23.3427 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 15:35:40.7729 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 15:35:40.8129 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 15:35:40.8990 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 15:35:40.8990 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 15:35:47.4706 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 15:36:07.6047 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 15:36:07.6398 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 15:36:07.6968 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 15:36:07.6968 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 15:36:14.8769 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
+2019-04-09 15:36:29.1709 Topshelf.HostFactory Configuration Result:
+[Success] Name AuthAPI
+[Success] DisplayName Auth API
+[Success] Description Auth API
+[Success] ServiceName AuthAPI
+2019-04-09 15:36:29.1979 Topshelf.HostConfigurators.HostConfiguratorImpl Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-04-09 15:36:29.2509 Topshelf.Builders.RunBuilder Running as a console application, creating the console host.
+2019-04-09 15:36:29.2509 Topshelf.Hosts.ConsoleRunHost Starting up as a console application
+2019-04-09 15:36:35.4303 Topshelf.Hosts.ConsoleRunHost The AuthAPI service is now running, press Control+C to exit.
